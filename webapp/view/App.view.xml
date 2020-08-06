@@ -1,0 +1,4 @@
+<mvc:View controllerName="com.mjzsoft.smp13n.com0mjzsoft0smp13n.controller.App" displayBlock="true" xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc" beforeRendering="onBeforeRendering" afterRendering="onAfterRendering">
+	<App id="app" busy="{appView>/busy}" busyIndicatorDelay="{appView>/delay}" navigate="onNavigate" afterNavigate="onAfterNavigate"/>
+</mvc:View>
